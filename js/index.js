@@ -1,5 +1,5 @@
 
-console.log('prueba');
+
 function sumar() {
     const forma =document.getElementById('forma');
     let opA = forma['opA'];   
